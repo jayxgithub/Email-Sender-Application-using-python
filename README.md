@@ -33,3 +33,5 @@ You might be prompted to sign in again.
 Under "Select the app and device you want to generate the app password for," choose "Mail" as the app and "Windows Computer" (or whichever option is applicable) as the device.
 Click "Generate."
 Google will provide a 16-character app password. Use this app password instead of your regular Gmail password in your application.
+
+by -- jay
